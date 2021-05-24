@@ -37,7 +37,7 @@ variables:
     #secretKey     = ""
     region         = "eu-west-1"
     lambdaname     = "lambda-aws-budget-action"
-    budgetName     = "demobudgets"
+    budgetName     = "prod-server-budget"
     tagName        = "office-hours"
     tagValue       = "prod-servers"
 

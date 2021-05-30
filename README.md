@@ -1,4 +1,4 @@
-# aws-poc-terraform-scripts - Proof Of Concept
+# Terraform-scripts - Proof Of Concept
 
 **Poc 1 : Start EC2 Instances during Office Hours Automatically using Lambda,CloudWatch and Terraform Script**
 

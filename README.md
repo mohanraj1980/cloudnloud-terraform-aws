@@ -17,7 +17,7 @@ for POC 2 refer folder called lambda-aws-ec2-stop
 for POC 3 refer folder called lambda-aws-ec2-snapshot
 
 --------------------------------------------------------------------------------------------------------------
+**
+**Poc 4 : Send the alerts if EC2 instances are running without proper tagging ****
 
-**Poc 3 : Send the alerts if EC2 instances are running without proper tagging **
-
-for POC 3 refer folder called lambda-aws-ec2-tags-mail-alerts
+for POC 4 refer folder called lambda-aws-ec2-tags-mail-alerts

@@ -12,6 +12,6 @@ for POC 2 refer folder called lambda-aws-ec2-stop
 
 --------------------------------------------------------------------------------------------------------------
 
-**Poc 3 : Maintain always 6 disk snapshots only and save Cost**
+**Poc 3 : Maintain always 6 disk snapshots only for running EC2 Servers and save Cost**
 
 for POC 3 refer folder called lambda-aws-ec2-snapshot

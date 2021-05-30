@@ -12,6 +12,6 @@ for POC 2 refer folder called lambda-aws-ec2-stop
 
 --------------------------------------------------------------------------------------------------------------
 
-**Poc 3 : Create Budget alerts to save cost from EC2 and RDS instances in AWS Cloud using Lambda,CloudWatch and Terraform Script**
+**Poc 3 : Maintain always 6 disk snapshots only and save Cost**
 
-for POC 3 refer folder called lambda-aws-budget-action-instance
+for POC 3 refer folder called lambda-aws-ec2-snapshot
